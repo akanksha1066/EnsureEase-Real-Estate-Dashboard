@@ -1,4 +1,4 @@
-# EnsureEase-R# EnsureEase - Real Estate Market Dashboard
+EnsureEase - Real Estate Market Dashboard
 
 An interactive Power BI dashboard developed for the **EnsureEase**. This dashboard analyzes real estate pricing trends, volume distribution, and BHK configurations across major cities.
 
